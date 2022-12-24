@@ -1,0 +1,61 @@
+<!-- 普通用户请注意：您无需修改这个文件，作者也不建议您进行修改！
+     如果修改后导致主页加载失败，您可以使用安装包进行重装或修复。
+     如果一定要修改，我们建议您先进行备份。 -->
+<local:MyHint Margin="0,0,0,5" Text="该页面还需要根据规范重新整理格式，优化排版与文案。如果您感兴趣也可以来帮帮忙！" IsWarn="False" />
+
+<local:MyCard Title="关于客户端" CanSwap="True" Margin="0,0,0,15">
+    <StackPanel Margin="25,40,23,15">
+		<TextBlock Margin="0,0,0,4" TextWrapping="Wrap" Text="您目前使用的客户端是最新版本(1.1.0.1)。" />
+    </StackPanel>
+</local:MyCard>
+
+<local:MyCard Title="加入我们" CanSwap="True" Margin="0,0,0,15">
+    <StackPanel Margin="25,40,23,15">
+        <StackPanel Orientation="Horizontal" HorizontalAlignment="Center">
+            <local:MyButton Margin="5,3,0,10" Width="120" Height="35" HorizontalAlignment="Left" Padding="13,0,13,0"
+                ColorType="Highlight" Text="服务器群号" EventType="复制文本" EventData="569421891" ToolTip="复制 QQ 群号" />
+            <local:MyButton Margin="5,3,0,10" Width="120" Height="35" HorizontalAlignment="Left" Padding="13,0,13,0"
+                Text="联系服主" EventType="复制文本" EventData="1013267909" ToolTip="复制服主 QQ 号" />
+            <local:MyButton Margin="5,3,0,10" Width="120" Height="35" HorizontalAlignment="Left" Padding="13,0,13,0"
+                Text="客户端作者" EventType="复制文本" EventData="youzi5201086@163.com" ToolTip="复制客户端作者邮箱" />
+        </StackPanel>
+
+        <StackPanel Orientation="Horizontal" HorizontalAlignment="Center">
+            <local:MyButton Margin="5,3,0,10" Width="120" Height="35" HorizontalAlignment="Left" Padding="13,0,13,0"
+                ColorType="Red" Text="服务器 IP" EventType="复制文本" EventData="starpixel.cc" ToolTip="注意：服务器完工前暂时停服。——Fantom" />
+            <local:MyButton Margin="5,3,0,10" Width="120" Height="35" HorizontalAlignment="Left" Padding="13,0,13,0"
+                Text="启动客户端" EventType="启动游戏" EventData="Star Pixel基础整合包" ToolTip="推荐使用微软或离线登录" />
+            <local:MyButton Margin="5,3,0,10" Width="120" Height="35" HorizontalAlignment="Left" Padding="13,0,13,0"
+                ColorType="Red" Text="加入服务器" EventType="启动游戏" EventData="Star Pixel基础整合包|starpixel.cc" ToolTip="注意：服务器完工前暂时停服。——Fantom" />
+        </StackPanel>
+    </StackPanel>
+</local:MyCard>
+
+<local:MyCard Title="服务器介绍" CanSwap="True" Margin="0,0,0,15">
+    <StackPanel Margin="25,40,23,15">
+        <TextBlock Margin="0,0,0,4" TextWrapping="Wrap" Text="欢迎来到Star Pixel！" />
+        <TextBlock Margin="0,0,0,4" TextWrapping="Wrap" Text="服务器有粘液科技、太空星系、天灾系统、更多附魔、血夜等趣味插件，还有超过原版 11 种地形以及地牢遗迹等你探索哦！" />
+        <TextBlock Margin="0,0,0,4" TextWrapping="Wrap" 
+            Text="因服务器重新建设，目前仅有基础的主城建筑完工，后续会陆续完善各世界、各不同功能的建筑。同时，我们需要您来一起建设这个世界，一个大家的家。" />
+        <TextBlock Margin="0,0,0,4" TextWrapping="Wrap"
+            Text="在这里，您不是孤独的一个人：这里会有人帮助您度过前期生存，直到您有了自己的小家；一个人住的地方叫家，一群人住的地方叫村落、城市。你们加上我们，我们将建设出一个新的世界，我的世界，同时也是你的世界。" />
+        <TextBlock Margin="0,0,0,4" TextWrapping="Wrap"
+            Text="这里将成为我们人生中美好的回忆，这里的伙伴，这里的经历：种种田，养养殖，打打怪，挖挖矿，和朋友一起打闹，一起建造自己的家，一起建造自己的村落，一起建造大家的城市。在完善自己家的同时，您也在为服务器添砖加瓦。" />
+        <TextBlock Margin="0,0,0,4" TextWrapping="Wrap"
+            Text="感谢您的参与和游玩，再次感谢您愿意与服务器、与我们共同成长！" />
+        <TextBlock Margin="200,0,0,4" TextWrapping="Wrap" Text="——Star Pixel 管理团队" />
+    </StackPanel>
+</local:MyCard>
+
+<local:MyCard Title="调试选项" IsSwaped="True" CanSwap="True" Margin="0,0,0,15">
+    <StackPanel Margin="25,40,23,15">
+    <local:MyHint Margin="0,0,0,15" Text="调试选项供完善客户端，不建议用户使用！" />
+        <TextBlock Margin="0,0,0,4" TextWrapping="Wrap" Text="在启动器任意页面按下 F12 按键即可显示所有页面。" />
+        <StackPanel Orientation="Horizontal" HorizontalAlignment="Center">
+            <local:MyButton Margin="0,8,0,10" Width="140" Height="35" HorizontalAlignment="Left" Padding="13,0,13,0"
+                Text="定位主页文档" EventType="打开文件" EventData="explorer.exe|/select,Custom.xaml" />
+            <local:MyButton Margin="0,-2,10,0" Width="140" Height="35" HorizontalAlignment="Left" Padding="13,0,13,0"
+                Text="刷新主页" EventType="刷新主页" />
+        </StackPanel>
+    </StackPanel>
+</local:MyCard>
