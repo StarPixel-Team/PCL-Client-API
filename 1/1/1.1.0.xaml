@@ -6,7 +6,7 @@
 <local:MyCard Title="关于客户端" CanSwap="True" Margin="0,0,0,15">
     <StackPanel Margin="25,40,23,15">
 		<TextBlock Margin="0,0,0,4" TextWrapping="Wrap" Text="您目前使用的客户端是旧版本(1.1.0)。" />
-        <TextBlock Margin="0,0,0,4" TextWrapping="Wrap" Text="该版本目前仍提供支持，但将在落后 5 个版本时停止支持 (目前落后 1 个版本)。" />
+        <TextBlock Margin="0,0,0,4" TextWrapping="Wrap" Text="该版本目前仍提供支持，但将在落后 5 个版本时停止支持 (目前落后 1 个版本，最新版为 1.1.1)。" />
         <TextBlock Margin="0,0,0,4" TextWrapping="Wrap" Text="如需更新，请先卸载当前客户端，然后从群文件中下载安装包，并安装新客户端。" />
     </StackPanel>
 </local:MyCard>
