@@ -4,7 +4,9 @@
     <StackPanel Margin="25,40,23,15">
 		<TextBlock Margin="0,0,0,4" TextWrapping="Wrap" Text="您目前使用的客户端是旧版本(1.1.2)。" />
         <TextBlock Margin="0,0,0,4" TextWrapping="Wrap" Text="该版本目前已经停止支持，且将来无法加载主页。" />
-        <TextBlock Margin="0,0,0,4" TextWrapping="Wrap" Text="如需更新，请从群文件中下载安装包，并安装新客户端。" />
+        <TextBlock Margin="0,0,0,4" TextWrapping="Wrap" Text="如需更新，请点击按钮下载并解压缩。" />
+        <local:MyButton Margin="5,3,0,10" Width="120" Height="35" HorizontalAlignment="Left" Padding="13,0,13,0"
+                ColorType="Highlight" Text="客户端" EventType="下载文件" EventData="https://fasthub.cc/StarPixel-Team/PCL-Client/archive/refs/heads/master.zip" />
     </StackPanel>
 </local:MyCard>
 
