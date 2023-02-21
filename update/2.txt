@@ -1,2 +1,33 @@
-PCL\hints.txt
-PCL\Setup.ini
+.gitignore
+.minecraft/libraries/net/fabricmc/fabric-loader/0.14.14/fabric-loader-0.14.14.jar
+.minecraft/versions/Pixel World 客户端/PCL/Setup.ini
+.minecraft/versions/Pixel World 客户端/config/MouseTweaks.cfg
+.minecraft/versions/Pixel World 客户端/config/appleskin.json5
+.minecraft/versions/Pixel World 客户端/config/fabric/indigo-renderer.properties
+.minecraft/versions/Pixel World 客户端/config/inventoryprofilesnext/inventoryprofiles.json
+.minecraft/versions/Pixel World 客户端/config/iris.properties
+.minecraft/versions/Pixel World 客户端/config/lambdynlights.toml
+.minecraft/versions/Pixel World 客户端/config/lightoverlay.properties
+.minecraft/versions/Pixel World 客户端/config/lithium.properties
+.minecraft/versions/Pixel World 客户端/config/modmenu.json
+.minecraft/versions/Pixel World 客户端/config/replaymod.json
+.minecraft/versions/Pixel World 客户端/config/roughlyenoughitems/config.json5
+.minecraft/versions/Pixel World 客户端/config/rrp.properties
+.minecraft/versions/Pixel World 客户端/config/shulkerboxtooltip.json5
+.minecraft/versions/Pixel World 客户端/config/slightguimodifications/config.json5
+.minecraft/versions/Pixel World 客户端/config/slightguimodifications/cts.groovy
+.minecraft/versions/Pixel World 客户端/config/sodium-mixins.properties
+.minecraft/versions/Pixel World 客户端/config/sodium-options.json
+.minecraft/versions/Pixel World 客户端/config/torohealth.json
+.minecraft/versions/Pixel World 客户端/mods/[##内置##]fabric-api-0.73.2+1.19.2.jar
+.minecraft/versions/Pixel World 客户端/mods/[##模组##][Fabric API]fabric-api-0.72.0+1.19.2.jar
+.minecraft/versions/Pixel World 客户端/mods/[##模组##][OptiFabric]optifabric-1.13.16.jar
+.minecraft/versions/Pixel World 客户端/mods/[##模组##][Optifine]OptiFine_1.19.2_HD_U_H9.jar
+.minecraft/versions/Pixel World 客户端/options.txt
+.minecraft/versions/Pixel World 客户端/servers.dat
+PCL/Custom.xaml
+PCL/Help/PixelWorld/添加 Mod.xaml
+README.md
+Rule.exe
+Rule.txt
+Update.exe
