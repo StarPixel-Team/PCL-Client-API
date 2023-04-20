@@ -1,0 +1,19 @@
+.minecraft/versions/Pixel World 客户端/config/fabric/indigo-renderer.properties
+.minecraft/versions/Pixel World 客户端/config/inventoryprofilesnext/integrationHints/exampleIntegrationHints.json
+.minecraft/versions/Pixel World 客户端/config/iris.properties
+.minecraft/versions/Pixel World 客户端/config/journeymap-server.json
+.minecraft/versions/Pixel World 客户端/config/lambdynlights.toml
+.minecraft/versions/Pixel World 客户端/config/roughlyenoughitems/config.json5
+.minecraft/versions/Pixel World 客户端/mods/[##模组##][优化原版机制]lithium-fabric-mc1.19.2-0.8.3.jar
+.minecraft/versions/Pixel World 客户端/mods/[##重要##][##模组##][回放模组]replaymod-1.19.2-2.6.10.jar
+.minecraft/versions/Pixel World 客户端/options.txt
+.minecraft/versions/Pixel World 客户端/servers.dat
+PCL/Custom.xaml
+PCL/Help/.helpignore
+PCL/Help/PixelWorld/加入服务器.xaml
+PCL/Help/PixelWorld/更新客户端.xaml
+PCL/Resources/Help/Images/ModNetPage.png
+PCL/Setup.ini
+Plain Craft Launcher 2.exe
+README.md
+Update.exe
