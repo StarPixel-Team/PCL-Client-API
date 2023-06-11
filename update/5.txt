@@ -1,0 +1,8 @@
+.gitignore
+PCL.exe
+PCL/Custom.xaml
+PCL/Help/PixelWorld/打开官网.json
+PCL/Help/PixelWorld/更新客户端.json
+PCL/Help/PixelWorld/更新客户端.xaml
+Plain Craft Launcher 2.exe
+Update.exe
