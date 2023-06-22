@@ -1,5 +1,5 @@
-.minecraft/versions/Pixel World 客户端/PCL/Setup.ini
-.minecraft/versions/Pixel World 客户端/options.txt
+minecraft/versions/Pixel World 客户端/PCL/Setup.ini
+minecraft/versions/Pixel World 客户端/options.txt
 PCL.exe
 PCL/Custom.xaml
 Plain Craft Launcher 2.exe

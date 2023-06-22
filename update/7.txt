@@ -1,7 +1,7 @@
-.minecraft/config/sodium-mixins.properties
-.minecraft/versions/Pixel World 客户端/config/fabric/indigo-renderer.properties
-.minecraft/versions/Pixel World 客户端/config/iris.properties
-.minecraft/versions/Pixel World 客户端/options.txt
+minecraft/config/sodium-mixins.properties
+minecraft/versions/Pixel World 客户端/config/fabric/indigo-renderer.properties
+minecraft/versions/Pixel World 客户端/config/iris.properties
+minecraft/versions/Pixel World 客户端/options.txt
 PCL/Help/PixelWorld/提交反馈.json
 PCL/Help/PixelWorld/提交反馈.xaml
 Plain Craft Launcher 2.exe
