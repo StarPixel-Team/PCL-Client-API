@@ -1,4 +1,3 @@
-.gitignore
 .minecraft/libraries/net/fabricmc/fabric-loader/0.14.14/fabric-loader-0.14.14.jar
 .minecraft/versions/Pixel World 客户端/PCL/Setup.ini
 .minecraft/versions/Pixel World 客户端/config/MouseTweaks.cfg

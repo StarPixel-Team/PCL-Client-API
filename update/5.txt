@@ -1,4 +1,3 @@
-.gitignore
 PCL.exe
 PCL/Custom.xaml
 PCL/Help/PixelWorld/打开官网.json
