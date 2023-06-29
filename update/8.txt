@@ -1,0 +1,6 @@
+Microsoft.Toolkit.Uwp.Notifications.dll
+PCL/Custom.xaml
+PCL/Setup.ini
+Plain Craft Launcher 2.exe
+README.md
+System.ValueTuple.dll
